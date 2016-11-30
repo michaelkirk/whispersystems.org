@@ -34,11 +34,14 @@ will already be there.
 
 <img src="/blog/images/signal-desktop-splash.png"/>
 
-### Android devices only, for now
+### <del>Android devices only, for now</del>
 
-For the initial Signal desktop beta, only linking to Android devices is supported.
+**Update**: Signal Desktop for iOS is here! [Read more](/blog/signal-desktop-ios/).
+
+<del>For the initial Signal desktop beta, only linking to Android devices is supported.
 [Follow us on twitter](https://twitter.com/whispersystems) for updates on when the
-iOS app supports Signal Desktop.
+iOS app supports Signal Desktop.</del>
+
 
 ### View source
 
